@@ -5,3 +5,4 @@
 *.bak
 /assets/config.properties
 /assets/config.properties.txt
+/.idea
