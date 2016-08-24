@@ -109,7 +109,7 @@ public class CustomerDetailsActivity extends SaleAgentBaseActivity {
     @ViewById(R.id.client_name)
     TextView mClientName; //名字
     @ViewById(R.id.ll_edit)
-    View ll_edit;//编辑
+    LinearLayout ll_edit;//编辑
     @ViewById(R.id.client_demand)
     TextView mClientDemand; //客户需求
     @ViewById(R.id.client_remarks)
